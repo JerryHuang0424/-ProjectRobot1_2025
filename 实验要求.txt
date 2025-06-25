@@ -1,0 +1,14 @@
+@全体成员 
+本学期还有项目4。
+1、所需知识和技巧你们都已具备，不再安排上课。
+2、要交的东西
+1）report，和项目3一样。
+2）video presentation，和项目3一样。
+3）Socio-Technical Analysis Report，这个是新的。内容有模板，Socio-Technical Analysis Report Template，如何填写看socio.txt，有些建议。
+
+每个文件的名字都是学号 姓名，如2022001 ZHANG San project4。把两个报告交给班长或学委，集中发给我。
+
+3、两个人一个micro:bit机器人，组队去领，做好记录。因零件较多，需要做个详细的领取表格。
+4、教程：https://www.yahboom.com/study/Tinybit-Pro 
+
+7月1日前交上吧。

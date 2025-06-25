@@ -1,0 +1,26 @@
+﻿4.1 
+For ISD Privacy Framework, consider four dimensions: physical, social, psychological and informational. 
+The physical dimension refers to the environment (e.g. workspace, office, etc.) where an individual may seek physical solitude. 
+Social privacy refers to the freedom to withdraw from, or enter into, interactions with others.
+Psychological privacy is closely related to the social dimension, but refers only to the individual psyche. 
+Finally, informational privacy refers to an individual‟s ability to control personal information. 
+These dimensions are not unambiguously discrete, and there is some overlap between them.
+
+这一节主要写项目会带来什么隐私风险。比如，用户使用这个机器人，要填写知情同意书，知道这个机器人要收集人脸数据；用户可以随时退出和机器人的交互，即用户可以随时关闭机器人；机器人采用的技术是非侵入式的，不会在不知情的情况下收集数据；机器人可能的输出，比如语音输出，不会对人造成精神创伤；采集的数据都是本地存储且随时可以删除，隐私风险小。
+4.2 
+GPDR includes the following:
+Data Minimization: Organizations should only collect necessary data and must not excessively collect personal information.
+Data Subject Rights: Data subjects have the right to access, rectify, erase their personal data, and the right to restrict its processing.
+Transparency: Organizations must clearly inform data subjects about the purpose and intended use of their data before collecting it.
+Security Safeguards: Organizations must implement appropriate technical and organizational measures to ensure data security, preventing unauthorized access and processing.
+
+这一节主要写收集数据方面的问题。比如，只收集必要的数据，不会收集额外的数据即机器人使用中只采集拥有者的面部数据；数据拥有者可以完全控制数据，随时可以删除；不牵扯到任何组织，机器人不会将收集的数据传输出去；采用技术措施对人脸数据进行保护，比如hash。
+4.3 
+Whether development tools, languages, hardware, etc., constitute infringement of intellectual property rights.
+项目中使用的硬件、语言、IDE，不会损害别人的知识产权。
+4.4 
+Stakeholder基本上就是机器人的所有者。
+负面因素可以考虑物理损害，比如自燃，安装过程中手指受伤等。还有就是如果机器人丢失，其中存储的人脸可能会泄漏这个隐私风险。
+6
+可以考虑学术伦理，比如如果要做用户实验，需要用户同意且要保护用户数据；自主研发，不要抄袭；
+可以考虑职业道德，跳槽后保护前东家的商业机密等。
