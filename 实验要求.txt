@@ -12,3 +12,14 @@
 4、教程：https://www.yahboom.com/study/Tinybit-Pro 
 
 7月1日前交上吧。
+
+
+项目拆解：
+1. 写user story和spring，tasks以及完成预计时间
+2. 创建一个新的gtihub remote repostory： ProjectRobot1_2025
+3. 拍摄组装机器人的过程
+4. 机器人的led矩阵的具体操作过程： Create the Python program file to recognize different faces, with different number images on led matrix
+5. 保存以及保护在机器人中的人脸数据
+6. 把上述的过程拍成视频
+7. Socio-Technical Analysis Report
+8. 在汇报中提供github 的log record
